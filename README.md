@@ -40,9 +40,10 @@ The workflow demonstrates the **full ML pipeline**, including data preprocessing
 │   ├── Train.csv
 │   ├── Valid.csv
 │   └── Test.csv
-├── notebook/                                                   # Saved ML models
+├── notebook/                                                   # notebook
 │   └── end-to-end-bluebook-bulldozer-price-regression
 └── README.md                                                 # Project documentation
+
 ```
 
 ---
