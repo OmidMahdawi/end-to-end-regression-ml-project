@@ -112,7 +112,7 @@ The dataset comes from **Kaggle’s Bluebook for Bulldozers Competition**.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bulldozer-price-prediction.git
+   git clone https://github.com/OmidMahdawi/end-to-end-regression-ml-project.git
    cd bulldozer-price-prediction
    ```
 
